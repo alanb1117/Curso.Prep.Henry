@@ -1,0 +1,52 @@
+h1 {
+    color: aquamarine;
+   
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+
+}
+h3 {
+    
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+h4 {
+    
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+img {
+    width: 320px;
+   
+}
+#thirDiv {
+    height: 500px;
+    width: 420px;
+    background-color: yellow;
+    padding: 50px;
+    border: 5px solid yellowgreen;
+   
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    height: 300px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
